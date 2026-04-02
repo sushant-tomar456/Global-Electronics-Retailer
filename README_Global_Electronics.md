@@ -4,7 +4,7 @@ A dynamic, end-to-end sales analytics project built for a global electronics ret
 
 ---
 
-## 2. Short Description / Purpose
+## 2. Purpose
 
 This project integrates 6 real-world datasets (Sales, Products, Customers, Stores, Exchange Rates, and Data Dictionary) into a single master dataset of 24,344 records. The goal is to analyze global sales performance across products, customers, stores, and regions — and deliver actionable business insights through an interactive Power BI dashboard.
 
